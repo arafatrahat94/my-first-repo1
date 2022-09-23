@@ -2,6 +2,8 @@ p{
     color: navy;
 }
 h1{
+    font-style: italic;
+    text-align: center;
     color: olive;
     background-color: aqua;
     border: 10px solid yellow;
